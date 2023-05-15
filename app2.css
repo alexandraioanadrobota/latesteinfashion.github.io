@@ -1,0 +1,120 @@
+body{
+	margin:0px;
+}
+
+h1
+{
+	color: #433633;
+	font-weight: 500;
+	letter-spacing: 13px;
+	align:center;
+	font-size: 50px;
+	font-family:baskerville;
+
+  
+	
+}
+div 
+{
+	color: black;
+	font-weight: 400;
+	letter-spacing: 4px;
+	font-size: 20px;
+	width: 220px;
+	length:100px;
+	background-color:#decbb7;
+	display: inline-block;
+	
+
+}
+
+ #one
+ { 
+	 background-color: #5c5552;
+	 color: white;
+	 border-width:6px;
+	   opacity:0.9;
+	 border-color:#e5e5e5;
+	 border-style:solid;
+     padding: 20px;
+	 margin: 100px;
+	
+
+ }
+  #two
+ {
+	 background-color:#b08968;
+	   opacity:0.8;
+	 border-width:6px;
+	 border-color:#e5e5e5;
+	 border-style:solid;
+	 padding: 20px;
+     margin: 100px;
+	 
+
+	 
+
+
+ }
+  #three
+ {
+	   background-color: #1e1e31;
+	   opacity:0.8;
+	   color: white;
+	    border-width:6px;
+	   border:6px #e5e5e5 solid;
+	   padding: 20px;
+	    margin: 100px;
+	
+
+
+
+ }
+ #relative #middle
+ {
+	 position:relative
+	 top:200px;
+
+ }
+
+ body {
+  background-image: url("poza2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h2{
+	font-family:'Roboto';
+	display:flex;
+	align-items:right;
+	justify-content:right;
+}
+
+button
+{background: none;
+ color:#22333b;
+ border:2px solid;
+ margin:20px;
+ padding:1em 2em;
+ font-size: 0.8em;
+ border-radius:30px;
+
+}
+button:hover
+{
+	border-color:#dda15e;
+	color:5e503f;
+	box-shadow: 0 0.5em 0.5em -0.4em #5e503f;
+	transform:translateY(-5px)
+}
+nav{
+	display: flex;
+  justify-content: space-between;
+  align-items: center;
+ 
+}
+.title {
+  text-align: center;
+  margin: 0;
+  flex-grow: 1;
+
+}
