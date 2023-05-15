@@ -90,15 +90,15 @@ h2{
 }
 
 .button
-
 {background: none;
  color:#22333b;
  border:2px solid;
-text-decoration:none;
+ margin:20px;
  padding:1em 2em;
  font-size: 0.8em;
  border-radius:30px;
-	margin: 10px;
+ text-decoration:none;
+
 }
 
 .button:hover
