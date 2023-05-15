@@ -94,13 +94,11 @@ h2{
 {background: none;
  color:#22333b;
  border:2px solid;
- margin:20px;
+text-decoration:none;
  padding:1em 2em;
  font-size: 0.8em;
-	text-decoration: none:
- border-radius:30px:
-
-
+ border-radius:30px;
+	margin: 10px;
 }
 
 .button:hover
