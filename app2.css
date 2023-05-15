@@ -89,7 +89,7 @@ h2{
 	justify-content:right;
 }
 
-button
+.button
 {background: none;
  color:#22333b;
  border:2px solid;
@@ -99,7 +99,7 @@ button
  border-radius:30px;
 
 }
-button:hover
+.button:hover
 {
 	border-color:#dda15e;
 	color:5e503f;
