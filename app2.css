@@ -90,6 +90,7 @@ h2{
 }
 
 .button
+
 {background: none;
  color:#22333b;
  border:2px solid;
@@ -99,7 +100,9 @@ h2{
  border-radius:30px;
 
 }
+
 .button:hover
+
 {
 	border-color:#dda15e;
 	color:5e503f;
