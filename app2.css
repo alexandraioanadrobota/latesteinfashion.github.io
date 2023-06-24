@@ -44,8 +44,8 @@ h9
 .button:hover
 
 {
-	border-color:#dda15e;
-	color:5e503f;
+	border-color:#8b8c89;
+	color:#8b8c89;
 	box-shadow: 0 0.5em 0.5em -0.4em #5e503f;
 	transform:translateY(-5px)
 		 text-decoration: none;
