@@ -71,7 +71,7 @@ nav{
 }
 
 .navbar.scrolled {
-background-image: linear-gradient(to right bottom, #ffffff, #fcfafc, #faf5f8, #f9eff2, #f8eaea);
+background-image: radial-gradient(circle, #f8f8f8, #f6f5f8, #f6f1f6, #f6edf4, #f8e9f0, #f3e4eb, #eedfe6, #e9dae1, #dcd2d9, #d0cbd0, #c5c3c6, #bbbbbb);
 }
 
 .title {
